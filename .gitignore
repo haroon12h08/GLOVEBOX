@@ -10,6 +10,11 @@
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
 
+# Zip & archive files
+*.zip
+*.rar
+*.tar.gz
+
 # Memory dumps & crash logs
 *.lmp
 *.dmp
